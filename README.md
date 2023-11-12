@@ -31,21 +31,21 @@
 
 ### Portfolio
 
-<img width="500" src="./Portfolio/Slide 16_9 - 1.png">
-<img width="500" src="./Portfolio/Slide 16_9 - 2.png">
-<img width="500" src="./Portfolio/Slide 16_9 - 3.png">
-<img width="500" src="./Portfolio/Slide 16_9 - 4.png">
-<img width="500" src="./Portfolio/Slide 16_9 - 5.png">
-<img width="500" src="./Portfolio/Slide 16_9 - 6.png">
-<img width="500" src="./Portfolio/Slide 16_9 - 7.png">
-<img width="500" src="./Portfolio/Slide 16_9 - 8.png">
-<img width="500" src="./Portfolio/Slide 16_9 - 9.png">
-<img width="500" src="./Portfolio/Slide 16_9 - 10.png">
-<img width="500" src="./Portfolio/Slide 16_9 - 11.png">
-<img width="500" src="./Portfolio/Slide 16_9 - 12.png">
-<img width="500" src="./Portfolio/Slide 16_9 - 13.png">
-<img width="500" src="./Portfolio/Slide 16_9 - 14.png">
-<img width="500" src="./Portfolio/Slide 16_9 - 15.png">
+<img width="800" src="./Portfolio/Slide 16_9 - 1.png">
+<img width="800" src="./Portfolio/Slide 16_9 - 2.png">
+<img width="800" src="./Portfolio/Slide 16_9 - 3.png">
+<img width="800" src="./Portfolio/Slide 16_9 - 4.png">
+<img width="800" src="./Portfolio/Slide 16_9 - 5.png">
+<img width="800" src="./Portfolio/Slide 16_9 - 6.png">
+<img width="800" src="./Portfolio/Slide 16_9 - 7.png">
+<img width="800" src="./Portfolio/Slide 16_9 - 8.png">
+<img width="800" src="./Portfolio/Slide 16_9 - 9.png">
+<img width="800" src="./Portfolio/Slide 16_9 - 10.png">
+<img width="800" src="./Portfolio/Slide 16_9 - 11.png">
+<img width="800" src="./Portfolio/Slide 16_9 - 12.png">
+<img width="800" src="./Portfolio/Slide 16_9 - 13.png">
+<img width="800" src="./Portfolio/Slide 16_9 - 14.png">
+<img width="800" src="./Portfolio/Slide 16_9 - 15.png">
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=parksehee6938)](https://solved.ac/parksehee6938/)
 
